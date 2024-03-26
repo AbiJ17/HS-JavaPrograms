@@ -1,0 +1,3 @@
+Eight Queens Problem Description:
+The Eight Queens Puzzle involves positioning eight queens on an 8x8 chessboard so that none can capture another, meaning no pair shares the same row, column, or diagonal. 
+This challenge extends into the n Queens Puzzle, where n queens must be placed on a chessboard of n by n squares, adhering to the same rules.
